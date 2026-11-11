@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Shipyard bounty board
+    url: https://github.com/riverside-pirates/shipyard/issues?q=is%3Aissue+is%3Aopen+label%3Abounty
+    about: Looking for a task to work on? Open bounties across the org live here.
+  - name: Student guides
+    url: https://github.com/riverside-pirates/computer-science
+    about: Students, start with the guides before opening an issue.

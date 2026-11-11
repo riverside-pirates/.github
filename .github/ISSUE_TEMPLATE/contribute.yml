@@ -1,0 +1,40 @@
+name: Contribute
+description: Help with a guide, a review, or a Shipyard bounty.
+title: "Contributor: "
+labels: [contributor]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome aboard. Public repos you can work in right now: `computer-science` (guides) and `shipyard` (bounties).
+        Private repos need an org invitation, which a teacher can arrange here.
+  - type: dropdown
+    id: what
+    attributes:
+      label: What would you like to do?
+      multiple: true
+      options:
+        - Improve a student guide
+        - Review student pull requests
+        - Claim a Shipyard bounty
+        - Write or test an autograder
+        - Something else (describe below)
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Tell us more
+      description: Which repo or bounty, and what you have in mind.
+    validations:
+      required: true
+  - type: dropdown
+    id: experience
+    attributes:
+      label: GitHub experience
+      options:
+        - New to GitHub
+        - Comfortable with branches and pull requests
+        - I review code for a living
+    validations:
+      required: true

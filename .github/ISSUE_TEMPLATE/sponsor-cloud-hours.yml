@@ -1,0 +1,34 @@
+name: Sponsor cloud hours
+description: Help pay for the Codespaces hours students code on.
+title: "Sponsor: "
+labels: [sponsor]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every student in the class works on a GitHub Codespace, a cloud computer billed by the hour.
+        Sponsors help keep those machines running. A teacher will reply here to work out details.
+  - type: input
+    id: org
+    attributes:
+      label: Organization or name
+      placeholder: Acme Robotics, or just your name
+    validations:
+      required: true
+  - type: dropdown
+    id: offer
+    attributes:
+      label: What can you offer?
+      multiple: true
+      options:
+        - Funding for GitHub Codespaces or Actions usage
+        - Cloud credits (GitHub, Azure, AWS, GCP)
+        - Hardware (laptops, Chromebooks)
+        - Advice on running cloud resources for a school
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Amounts, timing, conditions, or questions. No need to share contact details here; we'll follow up on this issue.
