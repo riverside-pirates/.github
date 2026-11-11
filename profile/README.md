@@ -11,25 +11,20 @@ work and grading. A link that says "404" is one of those.
 
 > [!IMPORTANT]
 > You can't join on your own. Your teacher adds you from the class roster, and GitHub emails
-> you an invitation to **riverside-pirates**. Accept it, and every link below works.
+> you an invitation to **riverside-pirates**. Accept it, and the members' page appears here.
 
-1. **Accept the invitation** in your school email. Check spam if it's missing.
-2. **Sign in** at the course page,
-   [classroom50.org/riverside-pirates/computer-science-essentials](https://classroom50.org/riverside-pirates/computer-science-essentials).
-   Assignments and scores live there.
-3. **Accept an assignment**, open your repository, and create a codespace. The
-   [Codespaces guide](https://github.com/riverside-pirates/computer-science/blob/main/guides/codespaces.md)
-   walks you through it.
+Your course's Canvas page has the steps for your class. This page just points the way.
 
 | You need | Go to |
 | --- | --- |
-| Course readings and PLTW activities | [my.pltw.org](https://my.pltw.org) |
-| Riverside links: Canvas, schedules, handbook | [Riverside Quick Links](https://www.dpsnc.net/o/riverside/page/quick-links) |
+| Your course: announcements, assignments, grades | [Canvas](https://dpsnc.instructure.com) |
+| PLTW readings and activities | [my.pltw.org](https://my.pltw.org) |
+| Riverside links: schedules, handbook | [Riverside Quick Links](https://www.dpsnc.net/o/riverside/page/quick-links) |
 | Help with your codespace, Git, or Python | [Student guides](https://github.com/riverside-pirates/computer-science): setup, Codespaces, troubleshooting, blocks to Python, glossary |
 
 > [!TIP]
 > Signed in and this page still looks the same? Ask Mr. B in class. Members see a different
-> version with class links and mini-lessons.
+> version with class links and docs.
 
 ## I'm a teacher
 
