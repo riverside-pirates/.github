@@ -13,14 +13,12 @@ work and grading. A link that says "404" is one of those.
 > You can't join on your own. Your teacher adds you from the class roster, and GitHub emails
 > you an invitation to **riverside-pirates**. Accept it, and the members' page appears here.
 
-Your course's Canvas page has the steps for your class. This page just points the way.
-
-| You need | Go to |
-| --- | --- |
-| Your course: announcements, assignments, grades | [Canvas](https://dpsnc.instructure.com) |
-| PLTW readings and activities | [my.pltw.org](https://my.pltw.org) |
-| Riverside links: schedules, handbook | [Riverside Quick Links](https://www.dpsnc.net/o/riverside/page/quick-links) |
-| Help with your codespace, Git, or Python | [Student guides](https://github.com/riverside-pirates/computer-science): setup, Codespaces, troubleshooting, blocks to Python, glossary |
+Your course's [Canvas](https://dpsnc.instructure.com) page has the steps for your class.
+This page just points the way: PLTW readings and activities are at
+[my.pltw.org](https://my.pltw.org), schedules and the handbook are on
+[Riverside Quick Links](https://www.dpsnc.net/o/riverside/page/quick-links), and the
+[student guides](https://github.com/riverside-pirates/computer-science) cover setup,
+Codespaces, troubleshooting, blocks to Python, and the glossary.
 
 > [!TIP]
 > Signed in and this page still looks the same? Ask Mr. B in class. Members see a different
