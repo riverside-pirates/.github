@@ -31,24 +31,11 @@ work and grading. A link that says "404" is one of those.
 > Signed in and this page still looks the same? Ask Mr. B in class. Members see a different
 > version with class links and mini-lessons.
 
-## I'm a parent or guardian
-
-Students write real programs in a browser-based editor, save their work with Git, and get
-feedback from automated tests every time they save. These are the same tools professional
-developers use.
-
-Student work stays private. This organization never publishes student names, usernames, or
-grades.
-
-The [Riverside Engineering Parent Action Council (REPAC)](https://github.com/riverside-pirates/repac)
-supports the PLTW program. Start there to get involved.
-
 ## I'm a teacher
 
-Everything public here is yours to reuse: the
-[student guides](https://github.com/riverside-pirates/computer-science), the one-template-repo-per-assignment
-pattern, and pytest autograding through [Classroom 50](https://classroom50.org). Want to know
-how it's set up? [Open an issue](https://github.com/riverside-pirates/.github/issues/new).
+Head to the [Teachers' Lounge](https://github.com/riverside-pirates/teachers-lounge). If it
+shows 404, you're not on the crew yet: [open an issue](https://github.com/riverside-pirates/.github/issues/new)
+and say hello.
 
 ## Want to help?
 
