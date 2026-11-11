@@ -48,19 +48,19 @@ supports the PLTW program. Start there to get involved.
 Everything public here is yours to reuse: the
 [student guides](https://github.com/riverside-pirates/computer-science), the one-template-repo-per-assignment
 pattern, and pytest autograding through [Classroom 50](https://classroom50.org). Want to know
-how it's set up? [Open an issue](https://github.com/riverside-pirates/.github/issues/new/choose).
+how it's set up? [Open an issue](https://github.com/riverside-pirates/.github/issues/new).
 
 ## Want to help?
 
 We're a cyber-assisted learning crew, and we welcome partners.
 
 - **Guest speakers.** Work in tech, engineering, or anything built with code? Students want to
-  hear about it. [Offer a talk](https://github.com/riverside-pirates/.github/issues/new?template=offer-to-speak.yml).
+  hear about it. [Open an issue](https://github.com/riverside-pirates/.github/issues/new).
 - **Contributors.** Fix a typo in a guide, review a pull request, or claim a bounty on the
   [Shipyard](https://github.com/riverside-pirates/shipyard).
-  [Say hello](https://github.com/riverside-pirates/.github/issues/new?template=contribute.yml).
+  [Open an issue](https://github.com/riverside-pirates/.github/issues/new).
 - **Cloud sponsors.** Every student codes on a GitHub Codespace, and those hours cost money.
-  [Sponsor cloud hours](https://github.com/riverside-pirates/.github/issues/new?template=sponsor-cloud-hours.yml).
+  [Open an issue](https://github.com/riverside-pirates/.github/issues/new).
 
 ## Public repos
 
