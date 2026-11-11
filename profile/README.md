@@ -15,10 +15,8 @@ work and grading. A link that says "404" is one of those.
 
 Your course's [Canvas](https://dpsnc.instructure.com) page has the steps for your class.
 This page just points the way: PLTW readings and activities are at
-[my.pltw.org](https://my.pltw.org), schedules and the handbook are on
-[Riverside Quick Links](https://www.dpsnc.net/o/riverside/page/quick-links), and the
-[student guides](https://github.com/riverside-pirates/computer-science) cover setup,
-Codespaces, troubleshooting, blocks to Python, and the glossary.
+[my.pltw.org](https://my.pltw.org), and schedules and the handbook are on
+[Riverside Quick Links](https://www.dpsnc.net/o/riverside/page/quick-links).
 
 > [!TIP]
 > Signed in and this page still looks the same? Ask Mr. B in class. Members see a different
